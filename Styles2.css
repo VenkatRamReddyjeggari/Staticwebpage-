@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+
+.favourite-places-container {
+    background-image: url(https://cdn.pixabay.com/photo/2015/06/19/21/24/avenue-815297_1280.jpg);
+    background-size: cover;
+    height: 100%;
+    padding: 20px;
+    
+
+
+}
+
+.Favourite-PLaces-Heading {
+    color: white;
+    font-size: 38px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 24px;
+    justify-content: center;
+    display: flex;
+}
+
+.favourite-places-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    flex-direction: row;
+    justify-content:end;
+    display: flex;
+    align-items: center;
+    margin: 25px;
+}
+
+.favourite-places-card-containerh1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.img-card1 {
+    height: 160px;
+    width: 180px;
+    border-radius: 20px;
+}
+.button-back{
+    background-color: #0e5ce2;
+    border-radius: 20px;
+    height: 30px;
+    width: 60px;
+    border: 0px;
+}
+.button-More{
+    background-color: #0e5ce2;
+    border-radius: 20px;
+    height: 30px;
+    width: 60px;
+    border: 0px;
+   
+}
